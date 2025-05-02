@@ -30,6 +30,8 @@ The system architecture integrates IoT sensors, a backend processing system, and
 - **Chart.js:** Library for dynamic and engaging data visualizations.
 - **Axios:** For API communication with the backend.
 - **CSS Modules:** For modular and maintainable styling.
+- **Azure SQL:** For DB and Normalization.
+- **Reports Power BI:** For Data Insghts and Delivery.
 
 ---
 
